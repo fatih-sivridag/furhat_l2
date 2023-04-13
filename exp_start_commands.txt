@@ -1,0 +1,3 @@
+conda activate furhat_anaconda_20230110
+cd "C:\Users\sivridag\OneDrive - GWDG\Projects\Furhat_language\Sumeyye_L2"
+python experiment_body.py

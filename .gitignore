@@ -1,0 +1,9 @@
+images/
+data/
+Experiment Items/
+resized images/
+*.aup3
+*.wav
+*.png
+*.PNG
+*.jpg
